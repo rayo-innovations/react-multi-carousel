@@ -1,10 +1,10 @@
-@font-face {
+/* @font-face {
   font-family: "revicons";
   fallback: fallback;
   src: url("./revicons.woff") format('woff'),
   url("./revicons.ttf") format('ttf'),
   url("./revicons.eot") format('ttf');
-}
+} */
 .react-multi-carousel-list {
   display: flex;
   align-items: center;
@@ -42,7 +42,7 @@
   font-size: 20px;
   color: #fff;
   display: block;
-  font-family: revicons;
+  /* font-family: revicons; */
   text-align: center;
   z-index: 2;
   position: relative;
